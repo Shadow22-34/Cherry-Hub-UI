@@ -1,0 +1,2 @@
+local TAB (NAME HERE)Page = ContentContainer:FindFirstChild("(TAB NAME HERE)Page")
+if (TAB NAME HERE)Page then
